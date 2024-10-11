@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full-stack developer specializing in creating<br>beautiful designs with Figma, Adobe XD, and efficient codes<br>Both in the frontend and backend on various platforms 
+Hi, I'm an IT professional with a growing background in web programming, technical support, and hands-on experience with various operating systems. I enjoy troubleshooting and solving technical challenges while building small web projects as I expand my skill set. I'm passionate about learning new technologies and contributing to collaborative projects. Open to opportunities where I can improve my coding skills, work on exciting projects, and connect with like-minded developers.
 
 
 ## 🌐 Socials:
