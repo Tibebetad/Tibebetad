@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm an IT professional with a growing background in web programming, technical support, and hands-on experience with various operating systems. I enjoy troubleshooting and solving technical challenges while building small web projects as I expand my skill set. I'm passionate about learning new technologies and contributing to collaborative projects. Open to opportunities where I can improve my coding skills, work on exciting projects, and connect with like-minded developers.
+Hey, I'm just starting out as an IT professional with experience in web programming and tech support. I've been working with different operating systems and enjoy figuring out tech problems. I’ve also built a few small web projects and am always trying to learn new things. I’m looking for opportunities to improve my coding, work on cool projects, and connect with others in the tech world.
 
 
 ## 🌐 Socials:
